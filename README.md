@@ -1,2 +1,3 @@
-# wm_portfolio
-A website for my Data Analytics portfolio! Click the link below to view
+# WillMino_DataAnalyst
+A website for my Data Analytics portfolio! ![Click here to view my portfolio website.]()
+
